@@ -8,7 +8,7 @@ Program "Car Manager"
     2.1.Pokaz dostepne trasy
     2.2.Dodaj trase
     2.3.Usun trase
-3.O Autorze
+3.O Autorze dsdfsdfds 
 '''
 MainList= [
 '1-Auta',
